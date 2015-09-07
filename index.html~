@@ -4,7 +4,7 @@
 
 <h1> Lets create a collage </h1>
 
-<p>The 13th student</p>
+
 
 	
 <svg width="1000" height="1000">
@@ -104,6 +104,7 @@
 
 </svg>
 
+<p>The 13th student</p>
 
 </body>
 </html>
