@@ -4,24 +4,24 @@
 
 <h1> Lets create a collage </h1>
 
-<p>The 13th student</p>
+
 
 	
 <svg width="1000" height="1000">
 
 	<!--Code to be eddited by student 1 start-->
 	<rect x="10" y="10"  height="100" width="100" 
-		style = "stroke:#ff0000; fill:#00AA00">
+		style = "stroke:#ff0000; fill:#0000ff">
 	</rect>
-	<text x="30" y="60">Tim </text>
+	<text x="30" y="60">Student 1 </text>
 
 
 
 	<!--Code to be eddited by student 2 start-->
 	<rect x="10" y="110"  height="100" width="100" 
-		style = "stroke:#f11000; fill:#ff0000">
+		style = "stroke:#f11000; fill:#0001ff">
 	</rect>
-	<text x="30" y="160">Roberto </text>
+	<text x="30" y="160">Student 2 </text>
 
 	<!--Code to be eddited by student 3 start-->
 	<rect x="10" y="210"  height="100" width="100" 
@@ -33,9 +33,9 @@
 
 	<!--Code to be eddited by student 4 start-->
 	<rect x="10" y="310"  height="100" width="100" 
-		style = "stroke:white; fill:yellow">
+		style = "stroke:#f11000; fill:#0001ff">
 	</rect>
-	<text x="30" y="360">Kiran</text>
+	<text x="30" y="360">Student 4 </text>
 
 
 
@@ -56,24 +56,24 @@
 
 	<!--Code to be eddited by student 7 start-->
 	<rect x="110" y="210"  height="100" width="100" 
-		style = "stroke:#ff0000; fill:#ff0000">
+		style = "stroke:#ff0000; fill:#0000ff">
 	</rect>
-	<text x="130" y="260">Octavio >:D </text>
+	<text x="130" y="260">Student 7 </text>
 
 
 
 	<!--Code to be eddited by student 8 start-->
 	<rect x="110" y="310"  height="100" width="100" 
-		style = "stroke:#f11000; fill:#00FF00">
+		style = "stroke:#f11000; fill:#0001ff">
 	</rect>
-	<text x="130" y="360">8 - Khaled </text>
+	<text x="130" y="360">Student 8 </text>
 
 
 	<!--Code to be eddited by student 9 start-->
 	<rect x="210" y="10"  height="100" width="100" 
-		style = "stroke:#ff0000; fill:#ea11ff">
+		style = "stroke:#ff0000; fill:#0000ff">
 	</rect>
-	<text x="230" y="60">Hashem  </text>
+	<text x="230" y="60">Student 9 </text>
 
 
 
@@ -86,19 +86,17 @@
 
 	<!--Code to be eddited by student 11 start-->
 	<rect x="210" y="210"  height="100" width="100" 
-		style = "stroke:#ff0000; fill:#00ffff">
+		style = "stroke:#ff0000; fill:#0000ff">
 	</rect>
-	<text x="230" y="260">chaitanya </text>
+	<text x="230" y="260">Student 11 </text>
 
 
 
 	<!--Code to be eddited by student 12 start-->
 	<rect x="210" y="310"  height="100" width="100" 
-		style = "stroke:#f11000; fill:#00ff00">
+		style = "stroke:#f11000; fill:#0001ff">
 	</rect>
-	<text x="230" y="360">Anand</text>
-	
-	
+	<text x="230" y="360">Student 12 </text>
 
 	
 	
@@ -106,6 +104,7 @@
 
 </svg>
 
+<p>The 13th student</p>
 
 </body>
 </html>
